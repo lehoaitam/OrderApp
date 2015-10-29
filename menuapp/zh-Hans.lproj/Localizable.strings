@@ -1,0 +1,163 @@
+/* No comment provided by engineer. */
+"BUTTON_NO" = "いいえ";
+
+/* No comment provided by engineer. */
+"BUTTON_OK" = "OK";
+
+/* No comment provided by engineer. */
+"BUTTON_YES" = "はい";
+
+/* No comment provided by engineer. */
+"LABEL_DISCOUNT_FREE_COUPON" = "無料クーポン";
+
+/* No comment provided by engineer. */
+"LABEL_DISCOUNT_NONE" = "なし";
+
+/* No comment provided by engineer. */
+"LABEL_DISCOUNT_PRICE" = "値引";
+
+/* No comment provided by engineer. */
+"LABEL_DISCOUNT_PRICE_COUPON" = "値引クーポン";
+
+/* No comment provided by engineer. */
+"LABEL_DISCOUNT_RATE" = "割引";
+
+/* No comment provided by engineer. */
+"LABEL_DISCOUNT_RATE_COUPON" = "割引クーポン";
+
+/* No comment provided by engineer. */
+"LABEL_ORDER_DETAIL_NO" = "注文番号";
+
+/* No comment provided by engineer. */
+"LABEL_RECEIPT_AMOUNT" = "合計点数";
+
+/* No comment provided by engineer. */
+"LABEL_RECEIPT_BILLDIVIDE" = "割り勘金額";
+
+/* No comment provided by engineer. */
+"LABEL_RECEIPT_SERVICE_CHARGE" = "サービスチャージ";
+
+/* No comment provided by engineer. */
+"LABEL_RECEIPT_SUBTOTAL" = "小計";
+
+/* No comment provided by engineer. */
+"LABEL_RECEIPT_TABLE_CHARGE" = "テーブルチャージ";
+
+/* No comment provided by engineer. */
+"LABEL_RECEIPT_TAX" = "内消費税";
+
+/* No comment provided by engineer. */
+"LABEL_RECEIPT_TITLE_ADD" = "    追加注文    ";
+
+/* No comment provided by engineer. */
+"LABEL_RECEIPT_TITLE_CHECKOUT" = "お会計";
+
+/* No comment provided by engineer. */
+"LABEL_RECEIPT_TOTAL" = "合計金額";
+
+/* No comment provided by engineer. */
+"LABEL_STAFF" = "スタッフ";
+
+/* No comment provided by engineer. */
+"LABEL_TABLE" = "テーブル";
+
+/* No comment provided by engineer. */
+"LABEL_TABLE_TIME" = "利用時間";
+
+/* InAppSettingsKit */
+"Mail not configured" = "Mail not configured";
+
+/* InAppSettingsKit */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"ORDER_DETAIL_STATUS_CANCELED" = "キャンセル";
+
+/* No comment provided by engineer. */
+"ORDER_DETAIL_STATUS_CATERED" = "配膳済";
+
+/* No comment provided by engineer. */
+"ORDER_DETAIL_STATUS_ORDERED" = "注文済";
+
+/* No comment provided by engineer. */
+"POPUP_MESSAGE_COVER_OPEN" = "プリンターカバーが開いています";
+
+/* No comment provided by engineer. */
+"POPUP_MESSAGE_ERROR_CONNECT" = "プリンターに接続できませんでした";
+
+/* No comment provided by engineer. */
+"POPUP_MESSAGE_PRINT_RETRY" = "リトライしますか？";
+
+/* No comment provided by engineer. */
+"POPUP_MESSAGE_PRINTER_ERROR" = "予期せぬエラーが発生しました";
+
+/* No comment provided by engineer. */
+"POPUP_MESSAGE_RUN_OUT_OF_PAPER" = "用紙が切れています";
+
+/* No comment provided by engineer. */
+"POPUP_TITLE_PRINTER_ERROR" = "プリンターエラー";
+
+/* No comment provided by engineer. */
+"PRINT_LABEL_FIRST_ORDER" = "  新規注文  ";
+
+/* No comment provided by engineer. */
+"PRINT_LABEL_ORDER_CANCEL" = "  注文キャンセル  ";
+
+/* No comment provided by engineer. */
+"Settings" = "Settings";
+
+/* InAppSettingsKit */
+"This device is not configured for sending Email. Please configure the Mail settings in the Settings app." = "This device is not configured for sending Email. Please configure the Mail settings in the Settings app.";
+
+"POPUP_TITLE_DEMO" = "デモメニュー";
+
+"POPUP_MESSAGE_DEMO" = "iPadセルフオーダーをダウンロード頂きありがとうございます。\nデモ用メニューをお試しください。";
+
+"Settings" = "システム設定";
+
+"POPUP_TITLE_CALLED_STAFF" = "スタッフを呼びました";
+"POPUP_MESSAGE_CALLED_STAFF" = "しばらくお待ちください。";
+
+/* 多言語対応 */
+"IB_TOTOP" = "ì返回顶部";
+"IB_TOMENU" = "我回到菜单";
+"IB_ORDERLIST" = "订购列表";
+"IB_PIECES" = "件";
+"IB_ADDORDERLIST" = "我将添加到订单列表";
+"IB_ADDORDERLISTNOTE" = "※当你把顺序列表，请确认订单。";
+"IB_TOTALORDER" = "这个总订单";
+"IB_YEN" = "日元";
+"IB_CONFIRMORDER" = "我会确认订单";
+"IB_CONFIRMORDERNOTE" = "※请按下此按钮确认订单";
+"IB_CANCEL" = "取消";
+"MES_WAITORDERLING" = "是一个数量级。请耐心等待。";
+"MES_ORDERFINISH" = "谢谢您的订单。";
+"MES_ORDERFINISHNOTE" = "请告诉我们，直到我们的员工取消的情况下。";
+"MES_CALLSTAFF" = "我打电话给工作人员。";
+"MES_CALLSTAFFCONFIRM" = "你确定吗？";
+"MES_YES" = "是的";
+"IB_TOTALAMOUNT" = "总金额";
+"IB_DUTCH" = "在人类荷兰人请客";
+"IB_PRICE" = "价格：";
+"IB_TOTAL" = "总：";
+"IB_QUANTITY" = "数量：";
+"IB_ORDERTIME" = "订购时间：";
+"IB_CLOSE" = "关闭";
+"IB_SUGGEST_TITLE" = "推荐的菜单";
+
+"MES_ERROR" = "对不起，请告诉我们我们的工作人员。";
+"MES_ORDER_ERROR" = "无法在您的订单。";
+"MES_CHOISE" = "请选择。";
+"MES_MORE_SELECTION" = "请是在%@个或更多个选项。";
+"MES_WITHIN_SELECTED" = "请设定为%@内选择。";
+"IB_PURCHASE_HISTORY" = "订单历史记录";
+"IB_CALL_STAFF" = "文员通话";
+"MES_PURCHASE_ERROR" = "这不是能够拿到订单的历史。";
+"MES_CALLSTAFF_ERROR" = "我没有叫员工。";
+"MES_WAIT" = "请耐心等待。";
+
+"NO_ITEMDATA" = "没有数据，这款产品。请致电您的员工。";
+"IB_RECOMMEND_MENU" = "推荐";
+"CATEGORY_LIST_TITLE" = "分类列表";
+"ORDER_OUTTIME" = "这个菜单可以及时为以下订购。";
+"SOLD_OUT" = "售完";

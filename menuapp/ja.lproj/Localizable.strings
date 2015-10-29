@@ -1,0 +1,163 @@
+/* No comment provided by engineer. */
+"BUTTON_NO" = "いいえ";
+
+/* No comment provided by engineer. */
+"BUTTON_OK" = "OK";
+
+/* No comment provided by engineer. */
+"BUTTON_YES" = "はい";
+
+/* No comment provided by engineer. */
+"LABEL_DISCOUNT_FREE_COUPON" = "無料クーポン";
+
+/* No comment provided by engineer. */
+"LABEL_DISCOUNT_NONE" = "なし";
+
+/* No comment provided by engineer. */
+"LABEL_DISCOUNT_PRICE" = "値引";
+
+/* No comment provided by engineer. */
+"LABEL_DISCOUNT_PRICE_COUPON" = "値引クーポン";
+
+/* No comment provided by engineer. */
+"LABEL_DISCOUNT_RATE" = "割引";
+
+/* No comment provided by engineer. */
+"LABEL_DISCOUNT_RATE_COUPON" = "割引クーポン";
+
+/* No comment provided by engineer. */
+"LABEL_ORDER_DETAIL_NO" = "注文番号";
+
+/* No comment provided by engineer. */
+"LABEL_RECEIPT_AMOUNT" = "合計点数";
+
+/* No comment provided by engineer. */
+"LABEL_RECEIPT_BILLDIVIDE" = "割り勘金額";
+
+/* No comment provided by engineer. */
+"LABEL_RECEIPT_SERVICE_CHARGE" = "サービスチャージ";
+
+/* No comment provided by engineer. */
+"LABEL_RECEIPT_SUBTOTAL" = "小計";
+
+/* No comment provided by engineer. */
+"LABEL_RECEIPT_TABLE_CHARGE" = "テーブルチャージ";
+
+/* No comment provided by engineer. */
+"LABEL_RECEIPT_TAX" = "内消費税";
+
+/* No comment provided by engineer. */
+"LABEL_RECEIPT_TITLE_ADD" = "    追加注文    ";
+
+/* No comment provided by engineer. */
+"LABEL_RECEIPT_TITLE_CHECKOUT" = "お会計";
+
+/* No comment provided by engineer. */
+"LABEL_RECEIPT_TOTAL" = "合計金額";
+
+/* No comment provided by engineer. */
+"LABEL_STAFF" = "スタッフ";
+
+/* No comment provided by engineer. */
+"LABEL_TABLE" = "テーブル";
+
+/* No comment provided by engineer. */
+"LABEL_TABLE_TIME" = "利用時間";
+
+/* InAppSettingsKit */
+"Mail not configured" = "Mail not configured";
+
+/* InAppSettingsKit */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"ORDER_DETAIL_STATUS_CANCELED" = "キャンセル";
+
+/* No comment provided by engineer. */
+"ORDER_DETAIL_STATUS_CATERED" = "配膳済";
+
+/* No comment provided by engineer. */
+"ORDER_DETAIL_STATUS_ORDERED" = "注文済";
+
+/* No comment provided by engineer. */
+"POPUP_MESSAGE_COVER_OPEN" = "プリンターカバーが開いています";
+
+/* No comment provided by engineer. */
+"POPUP_MESSAGE_ERROR_CONNECT" = "プリンターに接続できませんでした";
+
+/* No comment provided by engineer. */
+"POPUP_MESSAGE_PRINT_RETRY" = "リトライしますか？";
+
+/* No comment provided by engineer. */
+"POPUP_MESSAGE_PRINTER_ERROR" = "予期せぬエラーが発生しました";
+
+/* No comment provided by engineer. */
+"POPUP_MESSAGE_RUN_OUT_OF_PAPER" = "用紙が切れています";
+
+/* No comment provided by engineer. */
+"POPUP_TITLE_PRINTER_ERROR" = "プリンターエラー";
+
+/* No comment provided by engineer. */
+"PRINT_LABEL_FIRST_ORDER" = "  新規注文  ";
+
+/* No comment provided by engineer. */
+"PRINT_LABEL_ORDER_CANCEL" = "  注文キャンセル  ";
+
+/* No comment provided by engineer. */
+"Settings" = "Settings";
+
+/* InAppSettingsKit */
+"This device is not configured for sending Email. Please configure the Mail settings in the Settings app." = "This device is not configured for sending Email. Please configure the Mail settings in the Settings app.";
+
+"POPUP_TITLE_DEMO" = "デモメニュー";
+
+"POPUP_MESSAGE_DEMO" = "iPadセルフオーダーをダウンロード頂きありがとうございます。\nデモ用メニューをお試しください。";
+
+"Settings" = "システム設定";
+
+"POPUP_TITLE_CALLED_STAFF" = "スタッフを呼びました";
+"POPUP_MESSAGE_CALLED_STAFF" = "しばらくお待ちください。";
+
+/* 多言語対応 */
+"IB_TOTOP" = "トップに戻る";
+"IB_TOMENU" = "メニューに戻る";
+"IB_ORDERLIST" = "注文リスト";
+"IB_PIECES" = "個";
+"IB_ADDORDERLIST" = "注文リストに入れる";
+"IB_ADDORDERLISTNOTE" = "※注文リストに入れた後、注文を確定してください。";
+"IB_TOTALORDER" = "今回の注文合計";
+"IB_YEN" = "円";
+"IB_CONFIRMORDER" = "注文を確定する";
+"IB_CONFIRMORDERNOTE" = "※このボタンを押して注文を確定してください";
+"IB_CANCEL" = "キャンセル";
+"MES_WAITORDERLING" = "注文中です。しばらくお待ちください。";
+"MES_ORDERFINISH" = "ご注文ありがとうございます。";
+"MES_ORDERFINISHNOTE" = "キャンセルの際はお近くのスタッフまでお申し付けください。";
+"MES_CALLSTAFF" = "スタッフを呼びます";
+"MES_CALLSTAFFCONFIRM" = "本当によろしいですか？";
+"MES_YES" = "はい";
+"IB_TOTALAMOUNT" = "合計金額";
+"IB_DUTCH" = "人で割り勘";
+"IB_PRICE" = "価格：";
+"IB_TOTAL" = "合計：";
+"IB_QUANTITY" = "数量：";
+"IB_ORDERTIME" = "注文時間：";
+"IB_CLOSE" = "閉じる";
+"IB_SUGGEST_TITLE" = "おすすめメニュー";
+
+"MES_ERROR" = "恐れ入りますがお近くのスタッフにお申し付け下さい。";
+"MES_ORDER_ERROR" = "ご注文できませんでした。";
+"MES_CHOISE" = "選択してください。";
+"MES_MORE_SELECTION" = "選択は%@個以上にしてください。";
+"MES_WITHIN_SELECTED" = "選択は%@個以内にしてください。";
+"IB_PURCHASE_HISTORY" = "注文履歴";
+"IB_CALL_STAFF" = "店員呼出";
+"MES_PURCHASE_ERROR" = "注文履歴の取得が出来ませんでした。";
+"MES_CALLSTAFF_ERROR" = "スタッフを呼べませんでした。";
+"MES_WAIT" = "しばらくお待ちください。";
+
+"NO_ITEMDATA" = "この商品はデータがありません。\nスタッフをお呼び下さい。";
+"IB_RECOMMEND_MENU" = "おすすめメニュー";
+"CATEGORY_LIST_TITLE" = "カテゴリ一覧";
+"ORDER_OUTTIME" = "注文時間外です\n";
+"SOLD_OUT" = "ご好評により\n完売致しました";
